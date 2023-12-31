@@ -1,5 +1,5 @@
 # Store-Sales-Analysis
-Explore the sales and transactions of a prominent Ecuadorian grocery retailer through this Kaggle-accessible repository. Utilize advanced analytics to gain valuable insights into customer behavior and market trends, empowering strategic decision-making for enhanced business performance.
+Explore the sales and transactions of a prominent Ecuadorian grocery retailer. Utilize advanced analytics to gain valuable insights into customer behavior and market trends, empowering strategic decision-making for enhanced business performance.
 
 Key Dataset Overview:
 
